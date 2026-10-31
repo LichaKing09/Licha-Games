@@ -1,0 +1,24 @@
+{
+    "name": "Licha Games",
+    "version": 1,
+    "games": [
+        {
+            "id": 1,
+            "title": "Halo: Campaign Evolved",
+            "cover": "",
+            "description": "Una aventura de ciencia ficción en el universo Halo.",
+            "genre": "Acción, FPS",
+            "year": 2026,
+            "platform": "PC"
+        },
+        {
+            "id": 2,
+            "title": "Halo: The Master Chief Collection",
+            "cover": "",
+            "description": "Colección de campañas de Halo.",
+            "genre": "Acción, FPS",
+            "year": 2019,
+            "platform": "PC"
+        }
+    ]
+}
